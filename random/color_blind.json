@@ -1,0 +1,1289 @@
+[
+  {
+    "number": 1,
+    "original": [
+      "https://i.ibb.co.com/T4jPPnP/20241031-211618.png",
+      "https://i.postimg.cc/T2mSK1BY/20241031-211618.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/sHKVVC6/ishihara.png",
+      "https://i.postimg.cc/9XK8V7bQ/ishihara.png"
+    ],
+    "similar": [7, 10, 11, 17],
+    "lv": 2
+  },
+  {
+    "number": 2,
+    "original": [
+      "https://i.ibb.co.com/fqwYW5g/20241031-211633.png",
+      "https://i.postimg.cc/xT2ZMYSG/20241031-211633.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/RHySWqp/ishihara-1.png",
+      "https://i.postimg.cc/Sx7DWthn/ishihara-1.png"
+    ],
+    "similar": [3, 7, 8, 22],
+    "lv": 2
+  },
+  {
+    "number": 3,
+    "original": [
+      "https://i.ibb.co.com/X78yKJv/20241031-211640.png",
+      "https://i.postimg.cc/L63bV7Hc/20241031-211640.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/7b0Jz0N/ishihara-2.png",
+      "https://i.postimg.cc/HkC681fG/ishihara-2.png"
+    ],
+    "similar": [2, 5, 8, 30],
+    "lv": 2
+  },
+  {
+    "number": 4,
+    "original": [
+      "https://i.ibb.co.com/8NTK1PP/20241031-211645.png",
+      "https://i.postimg.cc/VksHZRvd/20241031-211645.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/XZ8FC9R/ishihara-3.png",
+      "https://i.postimg.cc/PrD6q5Vz/ishihara-3.png"
+    ],
+    "similar": [1, 5, 14, 40],
+    "lv": 1
+  },
+  {
+    "number": 5,
+    "original": [
+      "https://i.ibb.co.com/Btw8gcb/20241031-211655.png",
+      "https://i.postimg.cc/MKpyhr02/20241031-211655.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/51JdVS6/ishihara-4.png",
+      "https://i.postimg.cc/rpVggCVQ/ishihara-4.png"
+    ],
+    "similar": [3, 8, 9, 50],
+    "lv": 2
+  },
+  {
+    "number": 6,
+    "original": [
+      "https://i.ibb.co.com/cYC2hMD/20241031-211702.png",
+      "https://i.postimg.cc/nhsqLjw3/20241031-211702.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/bKsXrm1/ishihara-5.png",
+      "https://i.postimg.cc/zfx7Qb35/ishihara-5.png"
+    ],
+    "similar": [3, 5, 8, 9],
+    "lv": 2
+  },
+  {
+    "number": 7,
+    "original": [
+      "https://i.ibb.co.com/tw0zpGj/20241031-211707.png",
+      "https://i.postimg.cc/zGMSwSgm/20241031-211707.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/JpcTNMw/ishihara-6.png",
+      "https://i.postimg.cc/LXhDF9ZP/ishihara-6.png"
+    ],
+    "similar": [1, 4, 17, 70],
+    "lv": 1
+  },
+  {
+    "number": 8,
+    "original": [
+      "https://i.ibb.co.com/7xhwrTv/20241031-211713.png",
+      "https://i.postimg.cc/4N2zZbwK/20241031-211713.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/7pmrXt8/ishihara-7.png",
+      "https://i.postimg.cc/cHjmspQb/ishihara-7.png"
+    ],
+    "similar": [0, 3, 9, 13],
+    "lv": 2
+  },
+  {
+    "number": 9,
+    "original": [
+      "https://i.ibb.co.com/xYJGTd5/20241031-211718.png",
+      "https://i.postimg.cc/QdR1K82h/20241031-211718.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/4WcD8rp/ishihara-8.png",
+      "https://i.postimg.cc/vTVvD0hH/ishihara-8.png"
+    ],
+    "similar": [3, 5, 8, 90],
+    "lv": 2
+  },
+  {
+    "number": 10,
+    "original": [
+      "https://i.ibb.co.com/Jx7JnrJ/20241025-083743.png",
+      "https://i.postimg.cc/wBLJXKzJ/20241025-083743.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/3THggfy/ishihara-9.png",
+      "https://i.postimg.cc/sfQmn2zd/ishihara-9.png"
+    ],
+    "similar": [0, 1, 11, 18],
+    "lv": 1
+  },
+  {
+    "number": 11,
+    "original": [
+      "https://i.ibb.co.com/J3G1v0Y/20241031-211830.png",
+      "https://i.postimg.cc/4dGcw840/20241031-211830.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/8mKrZLm/ishihara-10.png",
+      "https://i.postimg.cc/J7fqSW7y/ishihara-10.png"
+    ],
+    "similar": [0, 1, 10, 17],
+    "lv": 2
+  },
+  {
+    "number": 12,
+    "original": [
+      "https://i.ibb.co.com/1XDHT5k/20241025-083758.png",
+      "https://i.postimg.cc/ZRLdQrC5/20241025-083758.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/rcLcJMd/ishihara-11.png",
+      "https://i.postimg.cc/X798bDXs/ishihara-11.png"
+    ],
+    "similar": [1, 2, 13, 15],
+    "lv": 1
+  },
+  {
+    "number": 13,
+    "original": [
+      "https://i.ibb.co.com/VY5cn7X/20241025-083805.png",
+      "https://i.postimg.cc/rsntVMG6/20241025-083805.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/0fywFNs/ishihara-12.png",
+      "https://i.postimg.cc/13PK5cqs/ishihara-12.png"
+    ],
+    "similar": [12, 15, 18, 19],
+    "lv": 2
+  },
+  {
+    "number": 14,
+    "original": [
+      "https://i.ibb.co.com/VJvYjFF/20241025-083817.png",
+      "https://i.postimg.cc/ryQ4CCBh/20241025-083817.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/CwwJNtW/ishihara-13.png",
+      "https://i.postimg.cc/y8PyJgm9/ishihara-13.png"
+    ],
+    "similar": [12, 15, 16, 17],
+    "lv": 3
+  },
+  {
+    "number": 15,
+    "original": [
+      "https://i.ibb.co.com/Q8RhyGx/20241025-083824.png",
+      "https://i.postimg.cc/gkjZMLdG/20241025-083824.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Z1CPnSL/ishihara-14.png",
+      "https://i.postimg.cc/YSCfQrRP/ishihara-14.png"
+    ],
+    "similar": [1, 5, 13, 19],
+    "lv": 2
+  },
+  {
+    "number": 16,
+    "original": [
+      "https://i.ibb.co.com/yNT7f4G/20241025-083832.png",
+      "https://i.postimg.cc/hPY7N4PT/20241025-083832.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/SXQ3nJq/ishihara-15.png",
+      "https://i.postimg.cc/QMYgb2nd/ishihara-15.png"
+    ],
+    "similar": [13, 15, 18, 19],
+    "lv": 2
+  },
+  {
+    "number": 17,
+    "original": [
+      "https://i.ibb.co.com/vPx5MPL/20241025-083839.png",
+      "https://i.postimg.cc/Bn113WXy/20241025-083839.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/xLfn6qP/ishihara-16.png",
+      "https://i.postimg.cc/cHKR5FVM/ishihara-16.png"
+    ],
+    "similar": [1, 7, 11, 71],
+    "lv": 2
+  },
+  {
+    "number": 18,
+    "original": [
+      "https://i.ibb.co.com/yqPCKTP/20241025-083845.png",
+      "https://i.postimg.cc/rpXRFh4p/20241025-083845.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/MSrY8Fd/ishihara-17.png",
+      "https://i.postimg.cc/9Mvd3G23/ishihara-17.png"
+    ],
+    "similar": [13, 15, 16, 19],
+    "lv": 1
+  },
+  {
+    "number": 19,
+    "original": [
+      "https://i.ibb.co.com/4Py5xG5/20241025-083851.png",
+      "https://i.postimg.cc/6Qr27dVf/20241025-083851.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/hCqBknM/ishihara-18.png",
+      "https://i.postimg.cc/SRCWmJQn/ishihara-18.png"
+    ],
+    "similar": [12, 13, 15, 18],
+    "lv": 2
+  },
+  {
+    "number": 20,
+    "original": [
+      "https://i.ibb.co.com/4d8fsST/20241025-083859.png",
+      "https://i.postimg.cc/HxTJbVBD/20241025-083859.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/n1Mg7Zn/ishihara-19.png",
+      "https://i.postimg.cc/WpkmGfms/ishihara-19.png"
+    ],
+    "similar": [0, 2, 12, 28],
+    "lv": 1
+  },
+  {
+    "number": 21,
+    "original": [
+      "https://i.ibb.co.com/9ZPRNVk/20241025-083910.png",
+      "https://i.postimg.cc/qRQNw45t/20241025-083910.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/y89HVc5/ishihara-20.png",
+      "https://i.postimg.cc/ZKz8VFjp/ishihara-20.png"
+    ],
+    "similar": [12, 27, 31, 81],
+    "lv": 3
+  },
+  {
+    "number": 22,
+    "original": [
+      "https://i.ibb.co.com/qD2T4Fm/20241025-083921.png",
+      "https://i.postimg.cc/3NRdbVst/20241025-083921.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/F83WM7s/ishihara-21.png",
+      "https://i.postimg.cc/Fsbjqdnq/ishihara-21.png"
+    ],
+    "similar": [12, 20, 23, 32],
+    "lv": 2
+  },
+  {
+    "number": 23,
+    "original": [
+      "https://i.ibb.co.com/0jDrRW4/20241025-083927.png",
+      "https://i.postimg.cc/J02GwKmM/20241025-083927.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/VQN8whP/ishihara-22.png",
+      "https://i.postimg.cc/dVq8Ksb0/ishihara-22.png"
+    ],
+    "similar": [13, 22, 32, 33],
+    "lv": 2
+  },
+  {
+    "number": 24,
+    "original": [
+      "https://i.ibb.co.com/0yF7PnX/20241025-083934.png",
+      "https://i.postimg.cc/Kv117Xrz/20241025-083934.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/XJTnxSb/ishihara-23.png",
+      "https://i.postimg.cc/P521fGHQ/ishihara-23.png"
+    ],
+    "similar": [2, 4, 14, 34],
+    "lv": 1
+  },
+  {
+    "number": 25,
+    "original": [
+      "https://i.ibb.co.com/C6hxL8b/20241025-083941.png",
+      "https://i.postimg.cc/RCs3nCty/20241025-083941.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Lx20h1J/ishihara-24.png",
+      "https://i.postimg.cc/nLrBCdcb/ishihara-24.png"
+    ],
+    "similar": [26, 28, 29, 35],
+    "lv": 2
+  },
+  {
+    "number": 26,
+    "original": [
+      "https://i.ibb.co.com/Z19GfzL/20241025-083948.png",
+      "https://i.postimg.cc/CL9zmvm4/20241025-083948.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/SVBHqnt/ishihara-25.png",
+      "https://i.postimg.cc/DzNssq8W/ishihara-25.png"
+    ],
+    "similar": [25, 28, 29, 36],
+    "lv": 2
+  },
+  {
+    "number": 27,
+    "original": [
+      "https://i.ibb.co.com/6m9ST6T/20241025-083954.png",
+      "https://i.postimg.cc/x1Hq7KZV/20241025-083954.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/L1Lb7CW/ishihara-26.png",
+      "https://i.postimg.cc/XJy5gpCs/ishihara-26.png"
+    ],
+    "similar": [17, 21, 37, 87],
+    "lv": 1
+  },
+  {
+    "number": 28,
+    "original": [
+      "https://i.ibb.co.com/54g2kkV/20241025-083959.png",
+      "https://i.postimg.cc/g0HjcGdM/20241025-083959.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/bzCnzYF/ishihara-27.png",
+      "https://i.postimg.cc/mkfHpB3B/ishihara-27.png"
+    ],
+    "similar": [23, 25, 26, 29],
+    "lv": 1
+  },
+  {
+    "number": 29,
+    "original": [
+      "https://i.ibb.co.com/dKKw5cb/20241025-084005.png",
+      "https://i.postimg.cc/6QXTN8s2/20241025-084005.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/2ttm6HP/ishihara-28.png",
+      "https://i.postimg.cc/mkYF0JVM/ishihara-28.png"
+    ],
+    "similar": [23, 25, 26, 28],
+    "lv": 2
+  },
+  {
+    "number": 30,
+    "original": [
+      "https://i.ibb.co.com/HPB9jGx/20241025-084013.png",
+      "https://i.postimg.cc/DZfZ8Rw7/20241025-084013.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/C5w0q6p/ishihara-29.png",
+      "https://i.postimg.cc/RCKf6J9F/ishihara-29.png"
+    ],
+    "similar": [38, 39, 50, 90],
+    "lv": 3
+  },
+  {
+    "number": 31,
+    "original": [
+      "https://i.ibb.co.com/jGFzvJg/20241025-084048.png",
+      "https://i.postimg.cc/hjCGxMXT/20241025-084048.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/NVK8xBG/ishihara-30.png",
+      "https://i.postimg.cc/8Pb6w87g/ishihara-30.png"
+    ],
+    "similar": [13, 21, 37, 81],
+    "lv": 2
+  },
+  {
+    "number": 32,
+    "original": [
+      "https://i.ibb.co.com/XXbr90m/20241025-084055.png",
+      "https://i.postimg.cc/MHvpYRB4/20241025-084055.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/c1vnGfd/ishihara-31.png",
+      "https://i.postimg.cc/5NJzw9Nm/ishihara-31.png"
+    ],
+    "similar": [23, 33, 82, 83],
+    "lv": 1
+  },
+  {
+    "number": 33,
+    "original": [
+      "https://i.ibb.co.com/HpP2W2f/20241025-084102.png",
+      "https://i.postimg.cc/VvpLZ6BN/20241025-084102.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Zh1dSgv/ishihara-32.png",
+      "https://i.postimg.cc/6p5GmHZ2/ishihara-32.png"
+    ],
+    "similar": [23, 32, 83, 88],
+    "lv": 2
+  },
+  {
+    "number": 34,
+    "original": [
+      "https://i.ibb.co.com/6szcNCp/20241025-084109.png",
+      "https://i.postimg.cc/qB5RvbVd/20241025-084109.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/kcqSBGd/ishihara-33.png",
+      "https://i.postimg.cc/jSgJ0z68/ishihara-33.png"
+    ],
+    "similar": [24, 54, 84, 94],
+    "lv": 2
+  },
+  {
+    "number": 35,
+    "original": [
+      "https://i.ibb.co.com/DzLnv6L/20241025-084116.png",
+      "https://i.postimg.cc/RVJ0674J/20241025-084116.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/D9zH3Fm/ishihara-34.png",
+      "https://i.postimg.cc/q7N6kzjp/ishihara-34.png"
+    ],
+    "similar": [25, 39, 53, 85],
+    "lv": 1
+  },
+  {
+    "number": 36,
+    "original": [
+      "https://i.ibb.co.com/WBhHP9m/20241025-084122.png",
+      "https://i.postimg.cc/W1R1Md1W/20241025-084122.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/MNNGFnS/ishihara-35.png",
+      "https://i.postimg.cc/KYCk4xHB/ishihara-35.png"
+    ],
+    "similar": [35, 38, 39, 86],
+    "lv": 3
+  },
+  {
+    "number": 37,
+    "original": [
+      "https://i.ibb.co.com/vsr07zx/20241025-084129.png",
+      "https://i.postimg.cc/9QGF1c4W/20241025-084129.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/g9ztrNn/ishihara-36.png",
+      "https://i.postimg.cc/4dtK9qDM/ishihara-36.png"
+    ],
+    "similar": [27, 31, 87, 97],
+    "lv": 2
+  },
+  {
+    "number": 38,
+    "original": [
+      "https://i.ibb.co.com/nBnQBpt/20241025-084134.png",
+      "https://i.postimg.cc/MGqZFgR1/20241025-084134.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/qB5r62m/ishihara-37.png",
+      "https://i.postimg.cc/QC3FkSsM/ishihara-37.png"
+    ],
+    "similar": [28, 33, 83, 88],
+    "lv": 2
+  },
+  {
+    "number": 39,
+    "original": [
+      "https://i.ibb.co.com/vJrSxrQ/20241025-084147.png",
+      "https://i.postimg.cc/pdCVbkY4/20241025-084147.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/FsbG4bS/ishihara-38.png",
+      "https://i.postimg.cc/FzV7PcsV/ishihara-38.png"
+    ],
+    "similar": [29, 33, 38, 89],
+    "lv": 2
+  },
+  {
+    "number": 40,
+    "original": [
+      "https://i.ibb.co.com/4J3DB8N/20241025-084154.png",
+      "https://i.postimg.cc/vBSQDBKv/20241025-084154.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/ZVkJ9Dw/ishihara-39.png",
+      "https://i.postimg.cc/VsqrLyB0/ishihara-39.png"
+    ],
+    "similar": [0, 4, 46, 48],
+    "lv": 1
+  },
+  {
+    "number": 41,
+    "original": [
+      "https://i.ibb.co.com/KVbYtFW/20241025-084203.png",
+      "https://i.postimg.cc/QtM8X5ft/20241025-084203.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/WpfsH9v/ishihara-40.png",
+      "https://i.postimg.cc/sD3BMnw6/ishihara-40.png"
+    ],
+    "similar": [4, 14, 40, 47],
+    "lv": 2
+  },
+  {
+    "number": 42,
+    "original": [
+      "https://i.ibb.co.com/M82jrLR/20241025-084209.png",
+      "https://i.postimg.cc/2ybCWYRN/20241025-084209.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/ZhwPnsG/ishihara-41.png",
+      "https://i.postimg.cc/BQNjHxzq/ishihara-41.png"
+    ],
+    "similar": [24, 40, 43, 48],
+    "lv": 2
+  },
+  {
+    "number": 43,
+    "original": [
+      "https://i.ibb.co.com/Yk1bWnh/20241025-084219.png",
+      "https://i.postimg.cc/kG0qFHq6/20241025-084219.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/J3s78Fm/ishihara-42.png",
+      "https://i.postimg.cc/nhzCkX8q/ishihara-42.png"
+    ],
+    "similar": [42, 62, 63, 68],
+    "lv": 3
+  },
+  {
+    "number": 44,
+    "original": [
+      "https://i.ibb.co.com/7zrV4yL/20241025-084225.png",
+      "https://i.postimg.cc/9XKmhDZm/20241025-084225.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Zh8Rt7q/ishihara-43.png",
+      "https://i.postimg.cc/HkhjPTHR/ishihara-43.png"
+    ],
+    "similar": [14, 24, 34, 54],
+    "lv": 1
+  },
+  {
+    "number": 45,
+    "original": [
+      "https://i.ibb.co.com/SPCtYhg/20241025-084232.png",
+      "https://i.postimg.cc/BQFqQJBx/20241025-084232.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/z26S0yL/ishihara-44.png",
+      "https://i.postimg.cc/5tQyhD20/ishihara-44.png"
+    ],
+    "similar": [43, 44, 46, 49],
+    "lv": 2
+  },
+  {
+    "number": 46,
+    "original": [
+      "https://i.ibb.co.com/55LBVRQ/20241025-084238.png",
+      "https://i.postimg.cc/fRhMV181/20241025-084238.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/j3sB3zf/ishihara-45.png",
+      "https://i.postimg.cc/hjFvcMX0/ishihara-45.png"
+    ],
+    "similar": [43, 45, 48, 49],
+    "lv": 2
+  },
+  {
+    "number": 47,
+    "original": [
+      "https://i.ibb.co.com/QcJS9YB/20241025-084243.png",
+      "https://i.postimg.cc/Bnc4HNyb/20241025-084243.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/1675Vg6/ishihara-46.png",
+      "https://i.postimg.cc/MTyTTRRJ/ishihara-46.png"
+    ],
+    "similar": [37, 57, 77, 87],
+    "lv": 2
+  },
+  {
+    "number": 48,
+    "original": [
+      "https://i.ibb.co.com/LRcnk5s/20241025-084250.png",
+      "https://i.postimg.cc/43fZ5Vk5/20241025-084250.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/rZbnmwT/ishihara-47.png",
+      "https://i.postimg.cc/brpv2JHD/ishihara-47.png"
+    ],
+    "similar": [43, 45, 46, 49],
+    "lv": 2
+  },
+  {
+    "number": 49,
+    "original": [
+      "https://i.ibb.co.com/6DWPxrp/20241025-084255.png",
+      "https://i.postimg.cc/LsxS05mM/20241025-084255.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/qjGd3zx/ishihara-48.png",
+      "https://i.postimg.cc/cChL7SXD/ishihara-48.png"
+    ],
+    "similar": [43, 45, 46, 48],
+    "lv": 2
+  },
+  {
+    "number": 50,
+    "original": [
+      "https://i.ibb.co.com/pdqYTFD/20241025-084301.png",
+      "https://i.postimg.cc/mDh4x4r1/20241025-084301.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/3zyRzXg/ishihara-49.png",
+      "https://i.postimg.cc/9XY0HdCG/ishihara-49.png"
+    ],
+    "similar": [0, 5, 15, 58],
+    "lv": 1
+  },
+  {
+    "number": 51,
+    "original": [
+      "https://i.ibb.co.com/J2QzxbV/20241025-084310.png",
+      "https://i.postimg.cc/B6y04z8Y/20241025-084310.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/tLL1kts/ishihara-50.png",
+      "https://i.postimg.cc/6563W8pF/ishihara-50.png"
+    ],
+    "similar": [15, 55, 57, 81],
+    "lv": 2
+  },
+  {
+    "number": 52,
+    "original": [
+      "https://i.ibb.co.com/68YhmgK/20241025-084318.png",
+      "https://i.postimg.cc/kGbd4yKn/20241025-084318.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/VmNvnQ5/ishihara-51.png",
+      "https://i.postimg.cc/ZKfqCJ9n/ishihara-51.png"
+    ],
+    "similar": [25, 53, 59, 82],
+    "lv": 1
+  },
+  {
+    "number": 53,
+    "original": [
+      "https://i.ibb.co.com/Qj7ts41/20241025-084323.png",
+      "https://i.postimg.cc/mhWWFFy7/20241025-084323.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/SsGq6t2/ishihara-52.png",
+      "https://i.postimg.cc/XYpY5tF8/ishihara-52.png"
+    ],
+    "similar": [33, 35, 59, 93],
+    "lv": 3
+  },
+  {
+    "number": 54,
+    "original": [
+      "https://i.ibb.co.com/10F9XCf/20241025-084328.png",
+      "https://i.postimg.cc/8kJFMQbC/20241025-084328.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/MBphZdQ/ishihara-53.png",
+      "https://i.postimg.cc/52TNSpSM/ishihara-53.png"
+    ],
+    "similar": [34, 44, 55, 94],
+    "lv": 2
+  },
+  {
+    "number": 55,
+    "original": [
+      "https://i.ibb.co.com/4FFBYHF/20241025-084334.png",
+      "https://i.postimg.cc/CM3R4Pvs/20241025-084334.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/bBnw5y2/ishihara-54.png",
+      "https://i.postimg.cc/yNR6Q9L3/ishihara-54.png"
+    ],
+    "similar": [22, 25, 35, 52],
+    "lv": 2
+  },
+  {
+    "number": 56,
+    "original": [
+      "https://i.ibb.co.com/p4LZzp3/20241025-084340.png",
+      "https://i.postimg.cc/qM2zDsSV/20241025-084340.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/qDyTvpR/ishihara-55.png",
+      "https://i.postimg.cc/bJjyKJ5C/ishihara-55.png"
+    ],
+    "similar": [35, 36, 55, 58],
+    "lv": 2
+  },
+  {
+    "number": 57,
+    "original": [
+      "https://i.ibb.co.com/1zD9PjV/20241025-084346.png",
+      "https://i.postimg.cc/jSKCpWYW/20241025-084346.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Q934jzp/ishihara-56.png",
+      "https://i.postimg.cc/ZRFbZmtT/ishihara-56.png"
+    ],
+    "similar": [27, 37, 67, 97],
+    "lv": 2
+  },
+  {
+    "number": 58,
+    "original": [
+      "https://i.ibb.co.com/1nzfh1C/20241025-084351.png",
+      "https://i.postimg.cc/JzqtM1Rp/20241025-084351.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/ZL4CqjV/ishihara-57.png",
+      "https://i.postimg.cc/XqjVYP49/ishihara-57.png"
+    ],
+    "similar": [35, 38, 93, 98],
+    "lv": 2
+  },
+  {
+    "number": 59,
+    "original": [
+      "https://i.ibb.co.com/SKGcgHw/20241025-084357.png",
+      "https://i.postimg.cc/QMdCMRth/20241025-084357.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/jJKGkZ9/ishihara-58.png",
+      "https://i.postimg.cc/0jV9MCyF/ishihara-58.png"
+    ],
+    "similar": [39, 93, 95, 99],
+    "lv": 2
+  },
+  {
+    "number": 60,
+    "original": [
+      "https://i.ibb.co.com/wWs201R/20241025-084403.png",
+      "https://i.postimg.cc/FKCRkDdc/20241025-084403.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/7WQVy2t/ishihara-59.png",
+      "https://i.postimg.cc/XNLjznkL/ishihara-59.png"
+    ],
+    "similar": [50, 68, 80, 90],
+    "lv": 1
+  },
+  {
+    "number": 61,
+    "original": [
+      "https://i.ibb.co.com/njBNWbq/20241025-084408.png",
+      "https://i.postimg.cc/tT1g3WWc/20241025-084408.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/s1GrQWK/ishihara-60.png",
+      "https://i.postimg.cc/4N3fCj8g/ishihara-60.png"
+    ],
+    "similar": [16, 57, 67, 97],
+    "lv": 1
+  },
+  {
+    "number": 62,
+    "original": [
+      "https://i.ibb.co.com/L6yk77C/20241025-084414.png",
+      "https://i.postimg.cc/fL6RByvR/20241025-084414.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/d6gKn9x/ishihara-61.png",
+      "https://i.postimg.cc/gkBYG456/ishihara-61.png"
+    ],
+    "similar": [32, 52, 82, 92],
+    "lv": 2
+  },
+  {
+    "number": 63,
+    "original": [
+      "https://i.ibb.co.com/Pz59dK1/20241025-084457.png",
+      "https://i.postimg.cc/wMLTPzWc/20241025-084457.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/ZSYPpGd/ishihara-62.png",
+      "https://i.postimg.cc/YCGt0YKD/ishihara-62.png"
+    ],
+    "similar": [33, 38, 53, 58],
+    "lv": 3
+  },
+  {
+    "number": 64,
+    "original": [
+      "https://i.ibb.co.com/M5cL2b4/20241025-084503.png",
+      "https://i.postimg.cc/tRxT7dXZ/20241025-084503.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/ByK7wG7/ishihara-63.png",
+      "https://i.postimg.cc/Bnr4KbJS/ishihara-63.png"
+    ],
+    "similar": [34, 54, 84, 94],
+    "lv": 3
+  },
+  {
+    "number": 65,
+    "original": [
+      "https://i.ibb.co.com/51FWXnm/20241025-084508.png",
+      "https://i.postimg.cc/4NR3cKd8/20241025-084508.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/y4N6kks/ishihara-64.png",
+      "https://i.postimg.cc/GpvrJRpk/ishihara-64.png"
+    ],
+    "similar": [55, 56, 66, 69],
+    "lv": 1
+  },
+  {
+    "number": 66,
+    "original": [
+      "https://i.ibb.co.com/dmKWn5h/20241025-084514.png",
+      "https://i.postimg.cc/QxgdJXKj/20241025-084514.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/LZPsPnS/ishihara-65.png",
+      "https://i.postimg.cc/rmcTfHd7/ishihara-65.png"
+    ],
+    "similar": [55, 56, 65, 86],
+    "lv": 3
+  },
+  {
+    "number": 67,
+    "original": [
+      "https://i.ibb.co.com/ZS2LxmV/20241025-084519.png",
+      "https://i.postimg.cc/wj6TWSDL/20241025-084519.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/8PFbLNg/ishihara-66.png",
+      "https://i.postimg.cc/FRZ48x3z/ishihara-66.png"
+    ],
+    "similar": [57, 61, 66, 76],
+    "lv": 2
+  },
+  {
+    "number": 68,
+    "original": [
+      "https://i.ibb.co.com/n1PpMgr/20241025-084525.png",
+      "https://i.postimg.cc/JzP7SPQg/20241025-084525.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/341c4SS/ishihara-67.png",
+      "https://i.postimg.cc/GtmCCsxQ/ishihara-67.png"
+    ],
+    "similar": [53, 58, 63, 88],
+    "lv": 3
+  },
+  {
+    "number": 69,
+    "original": [
+      "https://i.ibb.co.com/7YbdGvh/20241025-084530.png",
+      "https://i.postimg.cc/q7qBryb7/20241025-084530.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/r21RppM/ishihara-68.png",
+      "https://i.postimg.cc/Y0DwqqXw/ishihara-68.png"
+    ],
+    "similar": [39, 55, 59, 65],
+    "lv": 3
+  },
+  {
+    "number": 70,
+    "original": [
+      "https://i.ibb.co.com/QHJmZ2k/20241025-084536.png",
+      "https://i.postimg.cc/HLNYknR9/20241025-084536.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Bc9TWTz/ishihara-69.png",
+      "https://i.postimg.cc/T2txcCTH/ishihara-69.png"
+    ],
+    "similar": [0, 7, 78, 79],
+    "lv": 2
+  },
+  {
+    "number": 71,
+    "original": [
+      "https://i.ibb.co.com/7ntrPT7/20241025-084541.png",
+      "https://i.postimg.cc/mDFbzRGf/20241025-084541.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/kJVtcZD/ishihara-70.png",
+      "https://i.postimg.cc/sD1rH7Xf/ishihara-70.png"
+    ],
+    "similar": [11, 17, 77, 81],
+    "lv": 1
+  },
+  {
+    "number": 72,
+    "original": [
+      "https://i.ibb.co.com/7rgTtHs/20241025-084546.png",
+      "https://i.postimg.cc/7h8qScxC/20241025-084546.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/K5qhJR5/ishihara-71.png",
+      "https://i.postimg.cc/DyDK90Jr/ishihara-71.png"
+    ],
+    "similar": [27, 73, 75, 77],
+    "lv": 2
+  },
+  {
+    "number": 73,
+    "original": [
+      "https://i.ibb.co.com/tQnScDD/20241025-084552.png",
+      "https://i.postimg.cc/NF6BD4Md/20241025-084552.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/stHhWDh/ishihara-72.png",
+      "https://i.postimg.cc/6pvNtKnD/ishihara-72.png"
+    ],
+    "similar": [72, 75, 78, 79],
+    "lv": 2
+  },
+  {
+    "number": 74,
+    "original": [
+      "https://i.ibb.co.com/PG4HyKd/20241025-084604.png",
+      "https://i.postimg.cc/KvbZzdqw/20241025-084604.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/cNkVGks/ishihara-73.png",
+      "https://i.postimg.cc/ZqzzqQL0/ishihara-73.png"
+    ],
+    "similar": [14, 44, 47, 77],
+    "lv": 1
+  },
+  {
+    "number": 75,
+    "original": [
+      "https://i.ibb.co.com/Yprt2hT/20241025-084617.png",
+      "https://i.postimg.cc/h4TDKSrV/20241025-084617.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/r0mTMx0/ishihara-74.png",
+      "https://i.postimg.cc/GpPwTjMK/ishihara-74.png"
+    ],
+    "similar": [57, 73, 78, 79],
+    "lv": 1
+  },
+  {
+    "number": 76,
+    "original": [
+      "https://i.ibb.co.com/dLbwMwh/20241025-084623.png",
+      "https://i.postimg.cc/7YNqTmj6/20241025-084623.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/bbprsqD/ishihara-75.png",
+      "https://i.postimg.cc/XJVMfymb/ishihara-75.png"
+    ],
+    "similar": [73, 75, 78, 79],
+    "lv": 2
+  },
+  {
+    "number": 77,
+    "original": [
+      "https://i.ibb.co.com/wJ2Vt4y/20241025-084628.png",
+      "https://i.postimg.cc/9QFCPyjB/20241025-084628.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/zHVmSmy/ishihara-76.png",
+      "https://i.postimg.cc/vBXJ3Zw6/ishihara-76.png"
+    ],
+    "similar": [7, 11, 17, 71],
+    "lv": 1
+  },
+  {
+    "number": 78,
+    "original": [
+      "https://i.ibb.co.com/xLmQCxH/20241025-084633.png",
+      "https://i.postimg.cc/Gm7rX9Ln/20241025-084633.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/gzNnw51/ishihara-77.png",
+      "https://i.postimg.cc/6q3DSxBb/ishihara-77.png"
+    ],
+    "similar": [73, 75, 76, 79],
+    "lv": 3
+  },
+  {
+    "number": 79,
+    "original": [
+      "https://i.ibb.co.com/892bNQZ/20241025-084638.png",
+      "https://i.postimg.cc/SKn43qR2/20241025-084638.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/9t84QX3/ishihara-78.png",
+      "https://i.postimg.cc/J029CYnr/ishihara-78.png"
+    ],
+    "similar": [19, 73, 75, 78],
+    "lv": 2
+  },
+  {
+    "number": 80,
+    "original": [
+      "https://i.ibb.co.com/9rB06vx/20241025-084644.png",
+      "https://i.postimg.cc/25gYfJLH/20241025-084644.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/yYyXGyb/ishihara-79.png",
+      "https://i.postimg.cc/wx4KNMkC/ishihara-79.png"
+    ],
+    "similar": [85, 86, 88, 89],
+    "lv": 2
+  },
+  {
+    "number": 81,
+    "original": [
+      "https://i.ibb.co.com/pyXxkgj/20241025-084650.png",
+      "https://i.postimg.cc/4dtg45zX/20241025-084650.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/gR3qDrq/ishihara-80.png",
+      "https://i.postimg.cc/5NXhSJ76/ishihara-80.png"
+    ],
+    "similar": [18, 80, 87, 88],
+    "lv": 1
+  },
+  {
+    "number": 82,
+    "original": [
+      "https://i.ibb.co.com/jTVQFJD/20241025-084655.png",
+      "https://i.postimg.cc/Vv8cJCRn/20241025-084655.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/Gvht4vb/ishihara-81.png",
+      "https://i.postimg.cc/Pr0B679K/ishihara-81.png"
+    ],
+    "similar": [83, 85, 86, 89],
+    "lv": 2
+  },
+  {
+    "number": 83,
+    "original": [
+      "https://i.ibb.co.com/9m0x1G5/20241025-084700.png",
+      "https://i.postimg.cc/90YHZQ8S/20241025-084700.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/s1MChPM/ishihara-82.png",
+      "https://i.postimg.cc/y8922PzK/ishihara-82.png"
+    ],
+    "similar": [33, 85, 88, 89],
+    "lv": 3
+  },
+  {
+    "number": 84,
+    "original": [
+      "https://i.ibb.co.com/rFDZMTb/20241025-084705.png",
+      "https://i.postimg.cc/ZY8S1wbc/20241025-084705.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/JtxkXqb/ishihara-83.png",
+      "https://i.postimg.cc/SKhH4MyM/ishihara-83.png"
+    ],
+    "similar": [48, 83, 88, 89],
+    "lv": 2
+  },
+  {
+    "number": 85,
+    "original": [
+      "https://i.ibb.co.com/cwfm3r8/20241025-084711.png",
+      "https://i.postimg.cc/zXqr5T31/20241025-084711.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/1Zsphdc/ishihara-84.png",
+      "https://i.postimg.cc/g0HQ22JB/ishihara-84.png"
+    ],
+    "similar": [83, 86, 88, 89],
+    "lv": 3
+  },
+  {
+    "number": 86,
+    "original": [
+      "https://i.ibb.co.com/yS0zDDj/20241025-084716.png",
+      "https://i.postimg.cc/ncTtLMQ9/20241025-084716.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/0V0xvR2/ishihara-85.png",
+      "https://i.postimg.cc/k4MZ6PRM/ishihara-85.png"
+    ],
+    "similar": [35, 36, 56, 85],
+    "lv": 2
+  },
+  {
+    "number": 87,
+    "original": [
+      "https://i.ibb.co.com/FnGp4CD/20241025-084722.png",
+      "https://i.postimg.cc/BvPWNg72/20241025-084722.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/M2CT6pG/ishihara-86.png",
+      "https://i.postimg.cc/C1v2brbG/ishihara-86.png"
+    ],
+    "similar": [78, 77, 88, 97],
+    "lv": 2
+  },
+  {
+    "number": 88,
+    "original": [
+      "https://i.ibb.co.com/KyFBhSh/20241025-084728.png",
+      "https://i.postimg.cc/T34MrS0R/20241025-084728.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/txDjxKF/ishihara-87.png",
+      "https://i.postimg.cc/Fz7Bpbx2/ishihara-87.png"
+    ],
+    "similar": [33, 55, 66, 99],
+    "lv": 2
+  },
+  {
+    "number": 89,
+    "original": [
+      "https://i.ibb.co.com/4VJjFzn/20241025-084733.png",
+      "https://i.postimg.cc/mgDW1RQX/20241025-084733.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/4fV8Y2f/ishihara-88.png",
+      "https://i.postimg.cc/XqmDzZHX/ishihara-88.png"
+    ],
+    "similar": [59, 86, 88, 99],
+    "lv": 1
+  },
+  {
+    "number": 90,
+    "original": [
+      "https://i.ibb.co.com/3smHvZL/20241025-084739.png",
+      "https://i.postimg.cc/yNMMGZ2t/20241025-084739.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/pZsc0qC/ishihara-89.png",
+      "https://i.postimg.cc/SQv5s5Sq/ishihara-89.png"
+    ],
+    "similar": [0, 9, 89, 99],
+    "lv": 1
+  },
+  {
+    "number": 91,
+    "original": [
+      "https://i.ibb.co.com/Gf6QPrK/20241025-084744.png",
+      "https://i.postimg.cc/FR0MXK4R/20241025-084744.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/yP9213H/ishihara-90.png",
+      "https://i.postimg.cc/dtZfTB3C/ishihara-90.png"
+    ],
+    "similar": [18, 19, 90, 97],
+    "lv": 2
+  },
+  {
+    "number": 92,
+    "original": [
+      "https://i.ibb.co.com/QNg3jwq/20241025-084749.png",
+      "https://i.postimg.cc/FzZw1n1X/20241025-084749.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/gb041m3/ishihara-91.png",
+      "https://i.postimg.cc/CxyQCqnQ/ishihara-91.png"
+    ],
+    "similar": [93, 95, 96, 99],
+    "lv": 2
+  },
+  {
+    "number": 93,
+    "original": [
+      "https://i.ibb.co.com/kG1kmG2/20241025-084754.png",
+      "https://i.postimg.cc/cCZVxNxc/20241025-084754.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/FwfTDqd/ishihara-92.png",
+      "https://i.postimg.cc/JhMYvCq3/ishihara-92.png"
+    ],
+    "similar": [83, 85, 95, 98],
+    "lv": 3
+  },
+  {
+    "number": 94,
+    "original": [
+      "https://i.ibb.co.com/prTdbWn/20241025-084807.png",
+      "https://i.postimg.cc/QNk26VmY/20241025-084807.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/8cG1qnb/ishihara-93.png",
+      "https://i.postimg.cc/mgQ6mgQ2/ishihara-93.png"
+    ],
+    "similar": [49, 54, 84, 99],
+    "lv": 1
+  },
+  {
+    "number": 95,
+    "original": [
+      "https://i.ibb.co.com/y5fTtvJ/20241025-084814.png",
+      "https://i.postimg.cc/NfsWZYPs/20241025-084814.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/MDZzjhK/ishihara-94.png",
+      "https://i.postimg.cc/bvgVjVC7/ishihara-94.png"
+    ],
+    "similar": [55, 85, 96, 98],
+    "lv": 3
+  },
+  {
+    "number": 96,
+    "original": [
+      "https://i.ibb.co.com/3TWWDXJ/20241025-084820.png",
+      "https://i.postimg.cc/RVgjB8jc/20241025-084820.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/QpM91q3/ishihara-95.png",
+      "https://i.postimg.cc/63Qj6VFy/ishihara-95.png"
+    ],
+    "similar": [55, 66, 95, 98],
+    "lv": 3
+  },
+  {
+    "number": 97,
+    "original": [
+      "https://i.ibb.co.com/7V0kwrp/20241025-084826.png",
+      "https://i.postimg.cc/x1qBT52B/20241025-084826.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/0JNrnds/ishihara-96.png",
+      "https://i.postimg.cc/1XnvwmmS/ishihara-96.png"
+    ],
+    "similar": [57, 77, 87, 91],
+    "lv": 2
+  },
+  {
+    "number": 98,
+    "original": [
+      "https://i.ibb.co.com/rb3WRmd/20241025-084831.png",
+      "https://i.postimg.cc/3x6VyGrN/20241025-084831.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/ZMYKJBz/ishihara-97.png",
+      "https://i.postimg.cc/4dF8Y7Tw/ishihara-97.png"
+    ],
+    "similar": [58, 88, 90, 99],
+    "lv": 2
+  },
+  {
+    "number": 99,
+    "original": [
+      "https://i.ibb.co.com/QP17wfL/20241025-084836.png",
+      "https://i.postimg.cc/0Nw37Nrf/20241025-084836.png"
+    ],
+    "color_blind": [
+      "https://i.ibb.co.com/mbk4YBP/ishihara-98.png",
+      "https://i.postimg.cc/Kj6J56jM/ishihara-98.png"
+    ],
+    "similar": [58, 59, 88, 98],
+    "lv": 3
+  }
+]
