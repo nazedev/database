@@ -1,0 +1,128 @@
+[
+  {
+    "lang": "id",
+    "messages": {
+      "key": "Apikey limit! Silahkan Upgrade: https://naze.biz.id",
+      "owner": "Khusus Owner!",
+      "admin": "Khusus Admin!",
+      "botAdmin": "Bot harus Admin!",
+      "onWa": "Nomor tersebut tidak terdaftar di WhatsApp!",
+      "group": "Khusus Grup!",
+      "private": "Khusus Private Chat!",
+      "quoted": "Reply pesannya!",
+      "limit": "Limit habis!",
+      "prem": "Khusus Premium!",
+      "text": "Masukkan teksnya!",
+      "media": "Kirim medianya!",
+      "wait": "Proses...",
+      "fail": "Gagal!",
+      "error": "Error!",
+      "done": "Selesai!"
+    }
+  },
+  {
+    "lang": "en",
+    "messages": {
+      "key": "API key limit reached! Please upgrade: https://naze.biz.id",
+      "owner": "Owner only!",
+      "admin": "Admin only!",
+      "botAdmin": "Bot must be an admin!",
+      "onWa": "Number is not registered on WhatsApp!",
+      "group": "Group chat only!",
+      "private": "Private chat only!",
+      "quoted": "Please reply to a message!",
+      "limit": "Limit exhausted!",
+      "prem": "Premium only!",
+      "text": "Please enter the text!",
+      "media": "Please send the media!",
+      "wait": "Processing...",
+      "fail": "Failed!",
+      "error": "Error!",
+      "done": "Done!"
+    }
+  },
+  {
+    "lang": "ja",
+    "messages": {
+      "key": "APIキーの上限に達しました！アップグレードしてください: https://naze.biz.id",
+      "owner": "オーナー専用です！",
+      "admin": "管理者専用です！",
+      "botAdmin": "ボットを管理者にしてください！",
+      "onWa": "この番号はWhatsAppに登録されていません！",
+      "group": "グループ専用です！",
+      "private": "プライベートチャット専用です！",
+      "quoted": "メッセージに返信してください！",
+      "limit": "制限に達しました！",
+      "prem": "プレミアム専用です！",
+      "text": "テキストを入力してください！",
+      "media": "メディアを送信してください！",
+      "wait": "処理中...",
+      "fail": "失敗しました！",
+      "error": "エラー！",
+      "done": "完了！"
+    }
+  },
+  {
+    "lang": "ar",
+    "messages": {
+      "key": "تم الوصول إلى حد مفتاح API! يرجى الترقية: https://naze.biz.id",
+      "owner": "للمالك فقط!",
+      "admin": "للمسؤولين فقط!",
+      "botAdmin": "يجب أن يكون البوت مسؤولاً!",
+      "onWa": "الرقم غير مسجل في واتساب!",
+      "group": "للمجموعات فقط!",
+      "private": "للدردشة الخاصة فقط!",
+      "quoted": "يرجى الرد على الرسالة!",
+      "limit": "انتهى الحد المسموح!",
+      "prem": "للمميزين فقط!",
+      "text": "يرجى إدخال النص!",
+      "media": "يرجى إرسال الوسائط!",
+      "wait": "جاري المعالجة...",
+      "fail": "فشل!",
+      "error": "خطأ!",
+      "done": "تم!"
+    }
+  },
+  {
+    "lang": "ru",
+    "messages": {
+      "key": "Лимит API-ключа исчерпан! Пожалуйста, обновите: https://naze.biz.id",
+      "owner": "Только для владельца!",
+      "admin": "Только для администраторов!",
+      "botAdmin": "Бот должен быть администратором!",
+      "onWa": "Номер не зарегистрирован в WhatsApp!",
+      "group": "Только для групп!",
+      "private": "Только для личных сообщений!",
+      "quoted": "Пожалуйста, ответьте на сообщение!",
+      "limit": "Лимит исчерпан!",
+      "prem": "Только для Premium!",
+      "text": "Пожалуйста, введите текст!",
+      "media": "Пожалуйста, отправьте медиа!",
+      "wait": "Обработка...",
+      "fail": "Не удалось!",
+      "error": "Ошибка!",
+      "done": "Готово!"
+    }
+  },
+  {
+    "lang": "zh",
+    "messages": {
+      "key": "API密钥额度已满！请升级: https://naze.biz.id",
+      "owner": "仅限所有者！",
+      "admin": "仅限管理员！",
+      "botAdmin": "机器人必须是管理员！",
+      "onWa": "该号码未在WhatsApp注册！",
+      "group": "仅限群组！",
+      "private": "仅限私聊！",
+      "quoted": "请回复一条消息！",
+      "limit": "额度已用完！",
+      "prem": "仅限高级用户！",
+      "text": "请输入文本！",
+      "media": "请发送媒体文件！",
+      "wait": "处理中...",
+      "fail": "失败！",
+      "error": "错误！",
+      "done": "完成！"
+    }
+  }
+]
